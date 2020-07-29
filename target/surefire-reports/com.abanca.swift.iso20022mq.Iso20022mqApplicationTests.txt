@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.abanca.swift.iso20022mq.Iso20022mqApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.032 s - in com.abanca.swift.iso20022mq.Iso20022mqApplicationTests

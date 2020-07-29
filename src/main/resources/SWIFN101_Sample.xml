@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Root xmlns:ns0="http://biztalk.abanca.com/ConectorWS/services/SN484101B">
+    <ns0:SWIFN101>
+        <ns0:SWIFN101010>CAGLESMMXXX</ns0:SWIFN101010>
+        <ns0:SWIFN101020>CAGLPTPLXXX</ns0:SWIFN101020>
+        <ns0:SWIFN101030>SWIFN101030_0</ns0:SWIFN101030>
+        <ns0:SWIFN101040>SWIFN101040_0</ns0:SWIFN101040>
+        <ns0:SWIFN101110>SWIFN101110_0</ns0:SWIFN101110>
+        <ns0:SWIFN101120>SWIFN101120_0</ns0:SWIFN101120>
+        <ns0:SWIFN101130>SWIFN101130_0</ns0:SWIFN101130>
+    </ns0:SWIFN101>
+</ns0:Root>

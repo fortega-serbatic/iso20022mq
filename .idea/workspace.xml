@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed78d107-1ce0-41c9-b4b7-f6afa184b029" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\ferna\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fMEGZibMtWHkDaa8wDLvnsFoBO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dv\Repo\Abanca\iso20022mq\src\main\resources" />
+      <recent name="D:\Dv\Repo\Abanca\iso20022mq\src\main\java\com\abanca\swift\iso20022mq" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dv\Repo\Abanca\iso20022mq\src\main\resources" />
+      <recent name="D:\Dv\Repo\Abanca\iso20022mq\lib" />
+      <recent name="D:\Dv\Repo\Abanca\iso20022mq\src\main\java\com\abanca\swift\iso20022mq" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Iso20022mqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="iso20022mq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.abanca.swift.iso20022mq.Iso20022mqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed78d107-1ce0-41c9-b4b7-f6afa184b029" name="Default Changelist" comment="" />
+      <created>1596019468042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596019468042</updated>
+      <workItem from="1596019470259" duration="2569000" />
+      <workItem from="1596022077782" duration="5000" />
+      <workItem from="1596022126663" duration="497000" />
+      <workItem from="1596022651693" duration="320000" />
+      <workItem from="1596023503682" duration="2970000" />
+      <workItem from="1596026658429" duration="119000" />
+      <workItem from="1596026787229" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="760" y="94" key="#Project_Structure" timestamp="1596026810260">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="760" y="94" key="#Project_Structure/2560.217.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1596026810260" />
+    <state x="1060" y="275" key="FileChooserDialogImpl" timestamp="1596024631393">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="275" key="FileChooserDialogImpl/2560.217.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1596024631393" />
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom" timestamp="1596026512592">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom/2560.217.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1596026512592" />
+    <state width="2517" height="282" key="GridCell.Tab.0.center" timestamp="1596026512592">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.center/2560.217.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1596026512592" />
+    <state width="2517" height="282" key="GridCell.Tab.0.left" timestamp="1596026512592">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.left/2560.217.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1596026512592" />
+    <state width="2517" height="282" key="GridCell.Tab.0.right" timestamp="1596026512592">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.right/2560.217.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1596026512592" />
+    <state width="2517" height="282" key="GridCell.Tab.1.bottom" timestamp="1596026512582">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.1.bottom/2560.217.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1596026512582" />
+    <state width="2517" height="282" key="GridCell.Tab.1.center" timestamp="1596026512582">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.1.center/2560.217.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1596026512582" />
+    <state width="2517" height="282" key="GridCell.Tab.1.left" timestamp="1596026512582">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.1.left/2560.217.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1596026512582" />
+    <state width="2517" height="282" key="GridCell.Tab.1.right" timestamp="1596026512582">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.1.right/2560.217.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1596026512582" />
+    <state x="810" y="175" key="Maven.ArtifactSearchDialog" timestamp="1596019895593">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="810" y="175" key="Maven.ArtifactSearchDialog/2560.217.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1596019895593" />
+    <state x="760" y="94" key="SettingsEditor" timestamp="1596025085545">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="760" y="94" key="SettingsEditor/2560.217.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1596025085545" />
+    <state x="987" y="253" width="585" height="534" key="find.popup" timestamp="1596023878794">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="987" y="253" width="585" height="534" key="find.popup/2560.217.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1596023878794" />
+  </component>
+</project>
